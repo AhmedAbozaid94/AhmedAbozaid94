@@ -1,5 +1,4 @@
-<b>WELCOME ☢</b> 
- 
+### WELCOME ☢ 
 
 - 👋 Hi, I’m @AhmedAbozaid94
 - 👀 I’m interested in MACHINE LEARNING ;)
