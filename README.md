@@ -1,10 +1,10 @@
 ### WELCOME ☢ 
 
-- 👋 Hi, I’m @AhmedAbozaid94
+- 👋 Hi, I’m @AhmedAbozaid
 - 👀 I’m interested in MACHINE LEARNING ;)
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on: any project that i find intersting
-- 📫 How to reach me : You already here ;))
+- 📫 How to reach me : You Already Here ;))
 
 <!---
 ![AhmedAbozaid94's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAbozaid94&show_icons=true&theme=onedark)
