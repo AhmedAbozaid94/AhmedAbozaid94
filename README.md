@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a Graduation Project**
  
- 🌱 I’m currently learning **Ai, DataScience, Python**
+ 🌱 I’m currently learning **Ai, DataScience,Python**
 
  💬 Ask me about **Python, DataScience, Ai, MongoDB... or anything [here](https://www.linkedin.com/in/ahmed-abozaid-7b1405242/)**
 
@@ -19,15 +19,15 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:ahmedabozaid2024@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+  <a href="mailto:ahmedabozaid2024@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/ahmed-abozaid-7b1405242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+</a>
   <a href="https://www.kaggle.com/ahmedeabozaid" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
-  </a>
+</a>
 
 </div>
 
