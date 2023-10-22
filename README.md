@@ -38,15 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <i class="fab fa-vscode" title="VS Code"></i>
-    <i class="fab fa-github" title="GitHub"></i>
-    <i class="fab fa-r-project" title="R"></i>
-    <i class="fab fa-python" title="Python"></i>
-    <i class="fab fa-envira" title="MongoDB"></i>
-    <i class="fab fa-mysql" title="MySQL"></i>
-    <i class="fab fa-oracle" title="Oracle"></i>
-    <i class="fab fa-cuttlefish" title="C++"></i>
-    <i class="fab fa-python" title="Scikit-Learn"></i>
+    <p>VS Code, GitHub, R, Python, MongoDB, MySQL, Oracle, C++, Scikit-Learn</p>
 </div>
 
 <br/>
