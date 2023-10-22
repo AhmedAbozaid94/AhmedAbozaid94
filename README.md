@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Ai, DataScience, Python**
 
- 💬 Ask me about **Python, DataScience, Ai, MongoDB... or anything [here](https://github.com/AhmedAbozaid94/AhmedAbozaid94/issues)**
+ 💬 Ask me about **Python, DataScience, Ai, MongoDB... or anything [here](https://www.linkedin.com/in/ahmed-abozaid-7b1405242/)**
 
  ⚡ Fun fact **The show's co-creator, Justin Roiland, initially created the voices of both Rick and Morty as a joke.**
  
