@@ -39,8 +39,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,r" />
-    <img src="https://skillicons.dev/icons?i=python,C++,mongodb,mysql,sicitlearn" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,cplusplus,scikit-learn" /><br>
 </div>
 
 <br/>
 <hr/>
+
