@@ -38,18 +38,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="icon_vscode.png" alt="VS Code">
-    <img src="icon_github.png" alt="GitHub">
-    <img src="icon_r.png" alt="R">
-    <img src="icon_python.png" alt="Python">
-    <img src="icon_mongodb.png" alt="MongoDB">
-    <img src="icon_mysql.png" alt="MySQL">
-    <img src="icon_oracle.png" alt="Oracle">
-    <img src="icon_cplusplus.png" alt="C++">
-    <img src="icon_scikit-learn.png" alt="Scikit-Learn">
+    <i class="fab fa-vscode" title="VS Code"></i>
+    <i class="fab fa-github" title="GitHub"></i>
+    <i class="fab fa-r-project" title="R"></i>
+    <i class="fab fa-python" title="Python"></i>
+    <i class="fab fa-envira" title="MongoDB"></i>
+    <i class="fab fa-mysql" title="MySQL"></i>
+    <i class="fab fa-oracle" title="Oracle"></i>
+    <i class="fab fa-cuttlefish" title="C++"></i>
+    <i class="fab fa-python" title="Scikit-Learn"></i>
 </div>
 
 <br/>
 <hr/>
+
 
 
