@@ -47,9 +47,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbozaid94&show_icons=true&theme=onedark" alt="AhmedAbozaid's GitHub stats">
+<div align=center>
+  <img width=390 src="https://github-readme-stats-AhmedAbozaid94.vercel.app/api?username=AhmedAbozaid94&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
 </div>
+
 <br/><br/>
 <hr/>
 
