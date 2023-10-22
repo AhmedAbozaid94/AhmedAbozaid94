@@ -3,3 +3,17 @@
 </h1>
 
 <h3 align="center">A passionate Artificial intelligence Engineer from Egypt ᴱᴳ</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Graduation Project**
+ 
+ 🌱 I’m currently learning **Ai, Machine Learning, Python**
+
+ 💬 Ask me about **Python, Machine Learning, Ai, MongoDB... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/AhmedAbozaid94))**
+
+ ⚡ Fun fact **The show's co-creator, Justin Roiland, initially created the voices of both Rick and Morty as a joke.**
+ 
+ </div>
