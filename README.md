@@ -38,10 +38,18 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=vscode,github,r" />
-   <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,oracle,cplusplus,scikit-learn" /><br>
+    <img src="icon_vscode.png" alt="VS Code">
+    <img src="icon_github.png" alt="GitHub">
+    <img src="icon_r.png" alt="R">
+    <img src="icon_python.png" alt="Python">
+    <img src="icon_mongodb.png" alt="MongoDB">
+    <img src="icon_mysql.png" alt="MySQL">
+    <img src="icon_oracle.png" alt="Oracle">
+    <img src="icon_cplusplus.png" alt="C++">
+    <img src="icon_scikit-learn.png" alt="Scikit-Learn">
 </div>
 
 <br/>
 <hr/>
+
 
