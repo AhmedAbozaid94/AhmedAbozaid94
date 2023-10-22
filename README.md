@@ -35,14 +35,30 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,r,python,mongodb,mysql,oracle,cplusplus,scikit-learn" /><br>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Center the content both horizontally and vertically */
+        .centered-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh; /* This centers the content vertically within the viewport */
+        }
+    </style>
+</head>
+<body>
+
+<div class="centered-content">
+    <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=vscode,github,r,python,mongodb,mysql,oracle,cplusplus,scikit-learn" /><hr/>
 </div>
 
-<br/>
-<hr/>
+</body>
+</html>
+
 
 
 
