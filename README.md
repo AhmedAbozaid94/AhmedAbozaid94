@@ -8,8 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Graduation Project**
- 
  🌱 I’m currently learning **Ai, DataScience,Python**
 
  💬 Ask me about **Python, DataScience, Ai, MongoDB... or anything [here](https://www.linkedin.com/in/ahmed-abozaid-7b1405242/)**
