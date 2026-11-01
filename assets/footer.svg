@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Thanks for visiting">
+<style>
+  .h{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;font-size:30px;font-weight:700;fill:#E6EDF3}
+  .s{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;font-size:16px;fill:#A6ADBB}
+</style>
+<defs>
+  <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.55"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0.55"/></linearGradient>
+  <linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.35"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0.35"/></linearGradient>
+  <clipPath id="fc"><rect width="1200" height="190" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#fc)">
+  <rect width="1200" height="190" fill="#0D1117"/>
+  <path d="M0 150 Q150 136 300 150 Q450 164 600 150 Q750 136 900 150 Q1050 164 1200 150 Q1350 136 1500 150 Q1650 164 1800 150 Q1950 136 2100 150 Q2250 164 2400 150 V190 H0 Z" fill="url(#w2)"><animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="9s" repeatCount="indefinite"/></path>
+  <path d="M0 162 Q150 152 300 162 Q450 172 600 162 Q750 152 900 162 Q1050 172 1200 162 Q1350 152 1500 162 Q1650 172 1800 162 Q1950 152 2100 162 Q2250 172 2400 162 V190 H0 Z" fill="url(#w1)"><animateTransform attributeName="transform" type="translate" values="-600 0;0 0" dur="7s" repeatCount="indefinite"/></path>
+  <text x="600.0" y="72" text-anchor="middle" class="h">Thanks for stopping by!</text>
+  <text x="600.0" y="106" text-anchor="middle" class="s">Let’s connect and build data that drives decisions.</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="189" rx="24" fill="none" stroke="#30363D"/>
+</svg>

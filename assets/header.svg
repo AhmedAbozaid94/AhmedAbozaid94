@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Ahmed Abozaid, Data Engineer">
+<style>
+  .mono{font-family:'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;font-size:18px;fill:#8B949E}
+  .name{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;font-size:68px;font-weight:800;letter-spacing:-1px}
+  .role{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;font-size:30px;font-weight:600;fill:#E6EDF3}
+  .tag{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;font-size:19px;fill:#A6ADBB;opacity:0;animation:rot 12.8s infinite}
+  .node{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;font-size:17px;font-weight:600;fill:#E6EDF3}
+  .cap{font-family:'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;font-size:12.5px}
+  .pill{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;font-size:14.5px;fill:#C9D1D9}
+  .fade{animation:fade 1.2s ease-out both}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @keyframes rot{0%{opacity:0}3.00%{opacity:1}22.00%{opacity:1}25.00%{opacity:0}100%{opacity:0}}
+  .t0{animation-delay:0.0s}.t1{animation-delay:3.2s}.t2{animation-delay:6.4s}.t3{animation-delay:9.600000000000001s}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1222"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+  <radialGradient id="orbA"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="orbB"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.22"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1A2230" stroke-width="1"/></pattern>
+  <linearGradient id="ng" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="700" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#E6EDF3"/><stop offset="0.35" stop-color="#22D3EE"/><stop offset="0.7" stop-color="#A78BFA"/><stop offset="1" stop-color="#E6EDF3"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;700 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="card"><rect width="1200" height="380" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <rect width="1200" height="380" fill="url(#grid)" opacity="0.7"/>
+  <circle cx="1000" cy="40" r="300" fill="url(#orbA)"><animate attributeName="cx" values="1000;880;1000" dur="14s" repeatCount="indefinite"/></circle>
+  <circle cx="160" cy="400" r="320" fill="url(#orbB)"><animate attributeName="cy" values="400;340;400" dur="12s" repeatCount="indefinite"/></circle>
+
+  <text x="64" y="84" class="mono fade"><tspan fill="#34D399">ahmed@cairo</tspan>:<tspan fill="#22D3EE">~</tspan>$ whoami</text>
+  <text x="60" y="160" class="name fade" fill="url(#ng)" style="animation-delay:.2s">Ahmed Abozaid</text>
+  <text x="64" y="208" class="role fade" style="animation-delay:.4s">Data Engineer <tspan fill="#22D3EE">@ Nobles</tspan></text>
+  <text x="64" y="252" class="tag t0">Building end-to-end pipelines, from ERP extraction to Power BI</text><text x="64" y="252" class="tag t1">Orchestrating daily batch runs with Apache Airflow</text><text x="64" y="252" class="tag t2">Python  ·  SQL  ·  Data Modeling  ·  DAX</text><text x="64" y="252" class="tag t3">BSc in Artificial Intelligence with a machine learning background</text>
+
+  <g class="fade" style="animation-delay:.6s">
+    <rect x="912" y="58" width="224" height="36" rx="18" fill="#111827" stroke="#30363D"/>
+    <circle cx="934" cy="76" r="5" fill="#34D399"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="948" y="81" class="pill">Cairo, Egypt</text>
+    <rect x="912" y="104" width="224" height="36" rx="18" fill="#111827" stroke="#30363D"/>
+    <text x="934" y="127" class="pill">BSc · Artificial Intelligence</text>
+  </g>
+  
+  <line x1="232" y1="317.0" x2="290" y2="317.0" stroke="#334155" stroke-width="2" stroke-dasharray="3 5">
+    <animate attributeName="stroke-dashoffset" values="16;0" dur="0.8s" repeatCount="indefinite"/>
+  </line>
+  <circle r="4.5" fill="#C084FC" filter="url(#glow)" opacity="0">
+    <animateMotion path="M232,317.0 L290,317.0" dur="1.2s" begin="0.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="1.2s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="458" y1="317.0" x2="516" y2="317.0" stroke="#334155" stroke-width="2" stroke-dasharray="3 5">
+    <animate attributeName="stroke-dashoffset" values="16;0" dur="0.8s" repeatCount="indefinite"/>
+  </line>
+  <circle r="4.5" fill="#60A5FA" filter="url(#glow)" opacity="0">
+    <animateMotion path="M458,317.0 L516,317.0" dur="1.2s" begin="0.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="1.2s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="684" y1="317.0" x2="742" y2="317.0" stroke="#334155" stroke-width="2" stroke-dasharray="3 5">
+    <animate attributeName="stroke-dashoffset" values="16;0" dur="0.8s" repeatCount="indefinite"/>
+  </line>
+  <circle r="4.5" fill="#22D3EE" filter="url(#glow)" opacity="0">
+    <animateMotion path="M684,317.0 L742,317.0" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="910" y1="317.0" x2="968" y2="317.0" stroke="#334155" stroke-width="2" stroke-dasharray="3 5">
+    <animate attributeName="stroke-dashoffset" values="16;0" dur="0.8s" repeatCount="indefinite"/>
+  </line>
+  <circle r="4.5" fill="#2DD4BF" filter="url(#glow)" opacity="0">
+    <animateMotion path="M910,317.0 L968,317.0" dur="1.2s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="1.2s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+  </circle>
+  
+  <g>
+    <rect x="64" y="288" width="168" height="58" rx="14" fill="#111827" stroke="#C084FC" stroke-width="1.5" stroke-opacity="0.35">
+      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="0.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="86" cy="317.0" r="5" fill="#C084FC">
+      <animate attributeName="r" values="5;7;5" dur="3s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="102" y="314" class="node">Odoo ERP</text>
+    <text x="102" y="333" class="cap" fill="#C084FC">extract</text>
+  </g>
+  <g>
+    <rect x="290" y="288" width="168" height="58" rx="14" fill="#111827" stroke="#60A5FA" stroke-width="1.5" stroke-opacity="0.35">
+      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="312" cy="317.0" r="5" fill="#60A5FA">
+      <animate attributeName="r" values="5;7;5" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="328" y="314" class="node">Python</text>
+    <text x="328" y="333" class="cap" fill="#60A5FA">clean</text>
+  </g>
+  <g>
+    <rect x="516" y="288" width="168" height="58" rx="14" fill="#111827" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.35">
+      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="538" cy="317.0" r="5" fill="#22D3EE">
+      <animate attributeName="r" values="5;7;5" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="554" y="314" class="node">Warehouse</text>
+    <text x="554" y="333" class="cap" fill="#22D3EE">model</text>
+  </g>
+  <g>
+    <rect x="742" y="288" width="168" height="58" rx="14" fill="#111827" stroke="#2DD4BF" stroke-width="1.5" stroke-opacity="0.35">
+      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="764" cy="317.0" r="5" fill="#2DD4BF">
+      <animate attributeName="r" values="5;7;5" dur="3s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+    </circle>
+    <text x="780" y="314" class="node">Airflow</text>
+    <text x="780" y="333" class="cap" fill="#2DD4BF">orchestrate</text>
+  </g>
+  <g>
+    <rect x="968" y="288" width="168" height="58" rx="14" fill="#111827" stroke="#F2C811" stroke-width="1.5" stroke-opacity="0.35">
+      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="990" cy="317.0" r="5" fill="#F2C811">
+      <animate attributeName="r" values="5;7;5" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1006" y="314" class="node">Power BI</text>
+    <text x="1006" y="333" class="cap" fill="#F2C811">report</text>
+  </g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="379" rx="24" fill="none" stroke="#30363D"/>
+</svg>
