@@ -99,13 +99,5 @@ I build **end-to-end data pipelines, from ERP extraction to Power BI reporting**
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAbozaid94/AhmedAbozaid94/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedAbozaid94/AhmedAbozaid94/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/AhmedAbozaid94/AhmedAbozaid94/output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/ahmedabozaid99/"><img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by! Let's connect on LinkedIn."/></a>
 </p>
